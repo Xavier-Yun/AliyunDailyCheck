@@ -43,7 +43,7 @@
 
 ```shell
 # 命令/脚本
-ql repo https://github.com/mrabit/aliyundriveDailyCheck.git "autoSignin" "" "qlApi"
+ql repo https://github.com/yun739424678/aliyundriveDailyCheck.git "autoSignin" "" "qlApi"
 ```
 
 ##### 新版本:
