@@ -2,13 +2,6 @@
 
 > 基于 Node.js 实现的阿里云盘每日签到
 
-### TODO
-
-- [x] 阿里云盘签到
-- [x] 青龙面板支持
-- [ ] 本地运行
-- [ ] ~~github action 支持~~
-
 ### Use 使用
 
 #### 第一步：获取 refresh_token
@@ -43,7 +36,7 @@
 
 ```shell
 # 命令/脚本
-ql repo https://github.com/yun739424678/aliyundriveDailyCheck.git "autoSignin" "" "qlApi"
+ql repo https://github.com/Xavier-Yun/aliyundriveDailyCheck.git "autoSignin" "" "qlApi"
 ```
 
 ##### 新版本:
